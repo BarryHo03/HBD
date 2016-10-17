@@ -1,0 +1,21 @@
+body{
+	padding: 10px;
+	font-family: 'cwTeXYen', sans-serif;
+ 	display: flex;
+	justify-content: center;
+	text-align: center;
+	background-color:rgb(255, 209, 250);
+}
+
+div{
+	width: 50%;
+	display: flex;
+	justify-content: center;
+	flex-direction:column;
+	text-align: center;
+	color: red;
+
+}
+div img{
+	width: 100%;
+}
